@@ -1,9 +1,9 @@
 # **COVID-19 Mortality Analysis: Impact of Comorbidities and Healthcare System Capacity**  
 
 ## **Project Overview**  
-This project analyzes the factors influencing COVID-19 mortality, focusing on **age, comorbidities, and healthcare system conditions**. Using a dataset from Mexico, we examine how **pre-existing health conditions (e.g., obesity, diabetes, chronic kidney disease)** and hospital resource availability impact patient outcomes.  
+This project analyzes the factors influencing COVID-19 mortality, focusing on **age, comorbidities, and healthcare system conditions**. Using a dataset from Mexico, I examine how **pre-existing health conditions (e.g., hypertension, diabetes, chronic kidney disease)** and hospital resource availability impact patient outcomes.  
 
-The dataset includes **demographic and health-related factors**, such as age, gender, smoking status, chronic diseases, ICU admission, and intubation status. We applied **statistical analysis and data visualization** using Python libraries (**Pandas, Seaborn, Matplotlib, SciPy**) to uncover meaningful patterns in COVID-19 mortality.  
+The dataset includes **demographic and health-related factors**, such as age, gender, smoking status, chronic diseases, ICU admission, and intubation status. I applied **statistical analysis and data visualization** using Python libraries (**Pandas, Seaborn, Matplotlib, SciPy**) to uncover meaningful patterns in COVID-19 mortality.  
 
 ## **Data Source**  
 - **Dataset:** [COVID-19 Mexico Patient Health Dataset (Kaggle)](https://www.kaggle.com/datasets/riteshahlawat/covid19-mexico-patient-health-dataset)  
