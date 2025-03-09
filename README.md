@@ -11,7 +11,7 @@ The dataset includes **demographic and health-related factors**, such as age, ge
 
 ## **Objectives**  
 1. **Data Preprocessing:**  
-   - Removed duplicates and handled missing values  
+   - Removed duplicates and handled incorrect values  
    - Renamed columns for clarity  
    - Filtered out patients who tested negative for COVID-19  
 2. **Statistical Analysis of Mortality Factors:**  
