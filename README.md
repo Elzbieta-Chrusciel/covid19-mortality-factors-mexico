@@ -72,11 +72,11 @@ The dataset includes **demographic and health-related factors**, such as age, ge
 
 ## **Implications & Real-World Applications**  
 
-### **🔬 Healthcare & Research**  
+### **Healthcare & Research**  
 - **Comorbidity effects depend on hospital capacity.** Public health strategies should **prioritize resource allocation** to hospitals experiencing extreme patient overload.  
 - **Age should be considered alongside hospital conditions.** Younger patients with comorbidities may require **earlier interventions** due to compounded risks.  
 
-### **🏥 Public Health & Policy**  
+### **Public Health & Policy**  
 - **Healthcare systems in overwhelmed hospitals need better crisis planning.** Mortality risk is not just about comorbidities—**resource shortages play a critical role**.  
 - **Comorbidities alone do not dictate mortality risk.** Policymakers should avoid **one-size-fits-all** approaches and instead **consider hospital conditions when allocating resources.**  
 
@@ -95,8 +95,3 @@ This analysis provides key insights into **COVID-19 mortality risk factors**, em
 While comorbidities **increase mortality risk**, their impact is **highly dependent on hospital resource availability**. **Overwhelmed medical units experience high mortality regardless of patient health status**, suggesting that **effective crisis management and resource distribution** are crucial for reducing pandemic deaths.  
 
 ---
-
-### **📌 Potential Portfolio Use:**  
-📅 **Demonstrates strong data analysis & Python skills**  
-🎨 **Applies multiple statistical techniques appropriately**  
-💡 **Includes real-world healthcare applications**  
