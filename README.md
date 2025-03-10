@@ -89,9 +89,17 @@ The dataset includes **demographic and health-related factors**, such as age, ge
 
 ---
 
+## **Collaboration & Additional Resources**  
+This project was conducted in collaboration with Bartłomiej Brzostek [@bartbrzost] (, Teammate2, and Teammate3, who worked on different aspects of the analysis. However, **all files and analyses presented in this repository were solely created by me**.
+
+The full project, including additional insights and discussions from the team, can be explored in our **Prezi presentation**:
+
+---
+
 ## **Conclusion**  
 This analysis provides key insights into **COVID-19 mortality risk factors**, emphasizing that **hospital conditions, rather than comorbidities alone, play a major role in survival outcomes**.  
 
 While comorbidities **increase mortality risk**, their impact is **highly dependent on hospital resource availability**. **Overwhelmed medical units experience high mortality regardless of patient health status**, suggesting that **effective crisis management and resource distribution** are crucial for reducing pandemic deaths.  
 
 ---
+
