@@ -65,8 +65,8 @@ The dataset includes **demographic and health-related factors**, such as age, ge
 - **Elderly patients (60+):** No significant correlation, likely due to high baseline mortality rates regardless of health status. Some patients may have **died before reaching the hospital**, leading to **survival bias** in the dataset.  
 
 ### **3. Hospital Overcrowding & Mortality**  
-- In well-resourced hospitals, **comorbidities were clear risk factors** for mortality.  
-- In overwhelmed hospitals (80% mortality rate), **comorbidities did not influence outcomes**, likely due to **resource scarcity** and the inability to provide adequate care.  
+- In better-resourced hospitals, **comorbidities were risk factors** for mortality.  
+- In overwhelmed hospitals (80% mortality rate), **comorbidities did not influence outcomes**, likely due to **resource shortages** and the inability to provide adequate care.  
 
 ---
 
