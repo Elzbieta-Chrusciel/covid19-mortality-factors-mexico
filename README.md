@@ -24,7 +24,7 @@ The dataset includes **demographic and health-related factors**, such as age, ge
 
 ## **Methodology**  
 ### **1. Data Cleaning & Preprocessing**  
-- **Handling Missing & Invalid Values:** Replaced incorrect values (e.g., 97, 98, 99) with NaN.  
+- **Handling Invalid Values:** Replaced incorrect values (e.g., 97, 98, 99) with NaN.  
 - **Column Transformations:**  
   - Mapped categorical variables (e.g., SEX: 1 → Male, 2 → Female)  
   - Converted mortality status into binary (0 = Alive, 1 = Dead)  
