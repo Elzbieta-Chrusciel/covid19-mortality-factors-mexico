@@ -92,7 +92,7 @@ The dataset includes **demographic and health-related factors**, such as age, ge
 ## **Collaboration & Additional Resources**  
 This project was conducted in collaboration with Bartłomiej Brzostek [@bartbrzost](https://github.com/bartbrzost), Katarzyna Donaj [@donajkatarzyna](https://github.com/donajkatarzyna) and Tomasz Mazur [@Tom-Mazur](https://github.com/Tom-Mazur), who worked on different aspects of the analysis. However, **all files and analyses presented in this repository were solely created by me**.
 
-The full project, including additional insights and discussions from the team, can be explored in our **Prezi presentation**:
+The full project, including additional insights and discussions from the team, can be explored in our **Prezi presentation**: [@Prezi Link(https://prezi.com/view/TObuunzj42D090Gz6ovn/)
 
 ---
 
