@@ -26,7 +26,7 @@ The dataset includes **demographic and health-related factors**, such as age, ge
 ### **1. Data Cleaning & Preprocessing**  
 - **Handling Missing & Invalid Values:** Replaced incorrect values (e.g., 97, 98, 99) with NaN.  
 - **Column Transformations:**  
-  - Mapped categorical variables (e.g., `SEX`: 1 → Male, 2 → Female)  
+  - Mapped categorical variables (e.g., SEX: 1 → Male, 2 → Female)  
   - Converted mortality status into binary (0 = Alive, 1 = Dead)  
 - **Filtering Criteria:** Removed patients with **negative COVID-19 test results** to ensure data relevance.  
 
@@ -90,7 +90,7 @@ The dataset includes **demographic and health-related factors**, such as age, ge
 ---
 
 ## **Collaboration & Additional Resources**  
-This project was conducted in collaboration with Bartłomiej Brzostek [@bartbrzost] (, Teammate2, and Teammate3, who worked on different aspects of the analysis. However, **all files and analyses presented in this repository were solely created by me**.
+This project was conducted in collaboration with Bartłomiej Brzostek [@bartbrzost](https://github.com/bartbrzost), Katarzyna Donaj [@donajkatarzyna](https://github.com/donajkatarzyna) and Tomasz Mazur [@Tom-Mazur](https://github.com/Tom-Mazur), who worked on different aspects of the analysis. However, **all files and analyses presented in this repository were solely created by me**.
 
 The full project, including additional insights and discussions from the team, can be explored in our **Prezi presentation**:
 
